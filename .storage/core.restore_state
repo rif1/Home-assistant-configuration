@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-02-20T22:43:38.004363+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "HA",
+                    "id": "ha",
+                    "user_id": "3646bab50ddc406f83956f3928754f71"
+                },
+                "context": {
+                    "id": "6f40e09ab4e84165911f3971c44585fd",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.ha",
+                "last_changed": "2020-02-20T21:58:30.313889+00:00",
+                "last_updated": "2020-02-20T21:58:36.010854+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

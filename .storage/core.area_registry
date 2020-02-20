@@ -1,0 +1,20 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "e3fa228a6fee491b8ac59e3011cc0831",
+                "name": "Living Room"
+            },
+            {
+                "id": "bee2fb9548024b7482e311d8de24e6e3",
+                "name": "Kitchen"
+            },
+            {
+                "id": "0cfb823a114044b8aec2e071f3b7ff0d",
+                "name": "Bedroom"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

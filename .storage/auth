@@ -1,0 +1,97 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "alejfer"
+                },
+                "id": "5635400871dc47f1bbcea120f3577228",
+                "user_id": "3646bab50ddc406f83956f3928754f71"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": null,
+                "created_at": "2020-02-19T22:42:17.698668+00:00",
+                "id": "fdb3d8827b2c4f6a89556d8bb10304ac",
+                "jwt_key": "c1de6f0a437e7c303248a5dac91e034eb9efea03a16c0a5d3a38309e2bfb24d31b7dfef1c958a1be838c22e9ffdf3d37ac3c0598a0384e09843dc5a5956fd285",
+                "last_used_at": "2020-02-19T23:03:50.645092+00:00",
+                "last_used_ip": "172.30.32.2",
+                "token": "96c16d22cc1a3307c37b39f349fa0445c143784ebd2076256cc7512ff3978523d6c8bdc246a0f8cf9351a516c6341576e6c4a403b95ca98606b3f04a7d038ef3",
+                "token_type": "system",
+                "user_id": "fec3341cdd0c48519306df710678906e"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://172.20.10.5:8123/",
+                "client_name": null,
+                "created_at": "2020-02-19T22:47:08.485428+00:00",
+                "id": "45439d4fd85e480bbc26b0276f3dbdb4",
+                "jwt_key": "024a396cdbc3d863234e945c4a1d0f3361799317e2236cc7f25a6348e2a0662d9ff1084d6e1566eed6dfd6fa2e9547929ad2b7974b29053c3e69233badfa4f57",
+                "last_used_at": "2020-02-20T22:25:37.970176+00:00",
+                "last_used_ip": "172.20.10.4",
+                "token": "2e44ca72d65e9d56acfb0b2573493875736fa82065fad548cd31cd6b9c6e46f13034e14c9ae677b689625a626be0e99f98a63cf9241d30c67101e7e7a32fe2bb",
+                "token_type": "normal",
+                "user_id": "3646bab50ddc406f83956f3928754f71"
+            },
+            {
+                "access_token_expiration": 315360000.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": "LLA",
+                "created_at": "2020-02-20T21:24:56.958971+00:00",
+                "id": "ad0636b3ce624d1ba0ce1065b105d54b",
+                "jwt_key": "245c988e0de3d39a76d2f258ec99f9af1ebfef45ec150da26abeb1e81561e87ee7fabefbc0e82e54d532c03818c171b2d74a69cb1b66ee035707a26ba14c76f1",
+                "last_used_at": "2020-02-20T21:24:56.959296+00:00",
+                "last_used_ip": null,
+                "token": "83f75f84f87ecb0708d3ef38d6dab0f78df939f45f4126dc39a59e0eef41c85ec772e0c048b69862061808f37b262fe2ad387b7b4f5607eb8d048afe64a0645b",
+                "token_type": "long_lived_access_token",
+                "user_id": "3646bab50ddc406f83956f3928754f71"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "fec3341cdd0c48519306df710678906e",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Hass.io",
+                "system_generated": true
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "3646bab50ddc406f83956f3928754f71",
+                "is_active": true,
+                "is_owner": true,
+                "name": "HA",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
